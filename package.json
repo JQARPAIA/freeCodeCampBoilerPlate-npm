@@ -1,6 +1,7 @@
 {
 	"author": "Jose Arpaia",
 	"name": "fcc-learn-npm-package-json",
+	"description": "Managing package.json the free code camp way",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
